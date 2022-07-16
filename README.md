@@ -1,6 +1,6 @@
 # movie-recommandor-system
 ### StreamLit Webapp Screenshots
-![Price Predictor](https://github.com/sharmatriloknath/movie-recommandor-system/blob/main/images/recommendar.png?raw=true)
+![Price Predictor](https://github.com/sharmatriloknath/movie-recommender-system/blob/master/Images/recommendar.png?raw=true)
 
 
 **In this project I have created a Content Based Movie Recommender System.**
